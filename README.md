@@ -9,20 +9,18 @@ one screen for registration using React hook Form and Yup.
 - Validation with Yup
 - Controlled Inputs(React Hook Form + Yup)
 
-### Some Screens with Validations:
+## First Screen App:
 
-<p align="left">
-  <img alt="firstScreen" src="src/.github/firstScreen.png" width="65%">
-</p>
-
-<p align="right">
-  <img alt="SecondScreen" src="src/.github/firstValidation.png" width="50%">
-</p>
-
-<p align="left">
-  <img alt="thirdScreen" src="src/.github/secondValidation.png" width="50%">
-</p>
-
-<p align="right">
-  <img alt="fourScreen" src="src/.github/thirdValidation.png" width="50%">
-</p>
+  <p align="center">
+  <img alt="firstScreen" src="src/.github/firstScreen.png" width="35%">
+  </p>
+  
+  ### Some Screens with Validations:
+  
+  <p align="center">  
+  <img alt="SecondScreen" src="src/.github/firstValidation.png" width="30%">
+  -
+   <img alt="thirdScreen" src="src/.github/secondValidation.png" width="30%">
+  -
+     <img alt="fourScreen" src="src/.github/thirdValidation.png" width="30%">
+  </p>
